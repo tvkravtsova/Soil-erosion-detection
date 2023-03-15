@@ -1,2 +1,7 @@
 # Soil-erosion-detection
-Create in Colab
+
+
+
+
+
+Created in Colab
